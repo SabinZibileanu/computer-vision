@@ -1,5 +1,8 @@
 # computer-vision
-A repo containing everything about computer vision 
+A repository with essential computer vision resources to help participants prepare for the 2-day [contest](https://hackaton.ambasada.pro/) taking place from June 5–7.
+
+The contest focuses on building computer vision solutions that could be integrated with the Unitree Go2 robot.
+
 
 ## 1. Basic Image Concepts
 
@@ -152,6 +155,9 @@ Useful links:
 - [Background subtraction paper](https://arxiv.org/pdf/1901.03577)
 - [Estimating the camera orientation using geometry](https://arxiv.org/pdf/1908.07070)
 - [Ultralytics camera calibration guide](https://www.ultralytics.com/blog/a-guide-to-camera-calibration-for-computer-vision-in-2025)
+
+- [SLAM (Simultaneous Localization and Mapping)](https://www.mathworks.com/discovery/slam.html)
+
 ---
 
 ## 8. Object Tracking
@@ -169,7 +175,7 @@ Tracking is useful for:
 Useful links:
 
 - [Multi - Object Tracking with YOLO](https://docs.ultralytics.com/modes/track)
-
+- [The Kalman filter (tracking; state estimation)](https://www.ultralytics.com/glossary/kalman-filter-kf)
 ---
 
 
