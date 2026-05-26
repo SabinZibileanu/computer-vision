@@ -131,7 +131,7 @@ Useful links:
 
 - [Feature extraction using Vision Transformers paper](https://arxiv.org/pdf/2302.00875)
 - [OpenCV feature extraction](https://docs.opencv.org/4.x/dc/d7d/tutorial_py_brief.html)
-- [Bag of viusal words paper](https://arxiv.org/pdf/2002.12247)
+- [Bag of visual words paper](https://arxiv.org/pdf/2002.12247)
 
 ---
 
